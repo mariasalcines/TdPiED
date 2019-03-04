@@ -6,4 +6,4 @@
 [escenario 3d](p02.rar)
 
 ## Práctica 3.
-[tótem](p03.rar)
+[obra constructivista](p03.rar)
