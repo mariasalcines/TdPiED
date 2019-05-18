@@ -9,4 +9,5 @@
 [obra constructivista](p03.rar)
 
 ## Práctica 4.
-[cartel animado](p04.rar)
+[cartel animado. archivos cinema4d y finales](p04a.rar)
+[cartel animado. archivos after effects y photoshop](p04b.rar)
