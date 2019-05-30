@@ -16,6 +16,4 @@
 ## Práctica 5. Final
 [cartel final. archivos cinema4d y finales](p05a.rar)
 
-[cartel final. archivos para revincular en after effects](p05b.rar)
-
-[cartel final. archivo after effects](p05_cartel_final.aep)
+[cartel final. archivo after effects](p05b.rar)
