@@ -12,3 +12,8 @@
 [cartel animado. archivos cinema4d y finales](p04a.rar)
 
 [cartel animado. archivos after effects y photoshop](p04b.rar)
+
+## Práctica 5. Final
+[cartel final. archivos cinema4d y finales](p05a.rar)
+
+[cartel final. archivo after effects](p05b.rar)
